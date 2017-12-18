@@ -13,8 +13,13 @@ NOTE: Missing genotype should be imputed!!!
 --normMat  0 or 1 whether to output the normlized marker matrix
 
 --Gmat kinship type. 
+
 addGmat, additive kinship matrix; 
+
 domGmat_AS or domGmat_GS, dominant kinship, domGmat_GS should be used for genomic selection; 
+
 epiGmatAA, AxA epistatic kinship; 
+
 epiGmatAD_AS or epiGmatAD_GS, AxD epistatic kinship;
+
 epiGmatDD_AS or epiGmatDD_GS, DxD epistatic kinship
